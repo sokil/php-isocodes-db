@@ -7,19 +7,23 @@
 # Copyright ©
 # Joan Luc Labòrda <laborde@crpp.u-bordeaux.fr>
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
+# Quentin PAGÈS <quentinantonin@free.fr>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2008-11-10 01:01+0100\n"
-"Last-Translator: Joan Luc Labòrda <laborde@crpp.u-bordeaux.fr>\n"
-"Language-Team: OCCITAN <laborde@crpp.u-bordeaux.fr>\n"
-"Language: \n"
+"PO-Revision-Date: 2024-11-29 17:00+0000\n"
+"Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
+"Language-Team: Occitan <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-3/oc/>\n"
+"Language: oc\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -23305,7 +23309,7 @@ msgstr ""
 
 #. Name for oci
 msgid "Occitan (post 1500)"
-msgstr "Occitan (aprèp 1500)"
+msgstr "Occitan"
 
 #. Name for ocm
 #, fuzzy
@@ -25441,9 +25445,8 @@ msgid "Old Provençal (to 1500)"
 msgstr ""
 
 #. Inverted name for pro
-#, fuzzy
 msgid "Provençal, Old (to 1500)"
-msgstr "Occitan (aprèp 1500)"
+msgstr "Provençal, ancian (dusca 1500)"
 
 #. Name for prp
 msgid "Parsi"

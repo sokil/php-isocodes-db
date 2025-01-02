@@ -14,14 +14,15 @@
 # Dmitry Sivachenko <trtrmitya@gmail.com>, 2015.
 # yurayko <yuray@komyakino.ru>, 2018.
 # Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2021.
+# kala Asi <maks-s15@mail.ru>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-07-25 22:15+0200\n"
-"PO-Revision-Date: 2021-12-08 00:51+0000\n"
-"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"PO-Revision-Date: 2024-11-13 06:02+0000\n"
+"Last-Translator: kala Asi <maks-s15@mail.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/ru/>\n"
 "Language: ru\n"
@@ -30,7 +31,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10-dev\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -126,13 +127,12 @@ msgid "Aasáx"
 msgstr ""
 
 #. Name for aat
-#, fuzzy
 msgid "Arvanitika Albanian"
-msgstr "Албанский"
+msgstr "арнаутский диалект албанского"
 
 #. Inverted name for aat
 msgid "Albanian, Arvanitika"
-msgstr ""
+msgstr "албанский, арнаутский диалект"
 
 #. Name for aau
 msgid "Abau"
@@ -192,14 +192,12 @@ msgid "Abaga"
 msgstr "Албанский"
 
 #. Name for abh
-#, fuzzy
 msgid "Tajiki Arabic"
-msgstr "Арабский"
+msgstr "таджикский диалект арабского"
 
 #. Inverted name for abh
-#, fuzzy
 msgid "Arabic, Tajiki"
-msgstr "Арабский"
+msgstr "арабский, таджикский диалект"
 
 #. Name for abi
 msgid "Abidji"
@@ -264,14 +262,12 @@ msgid "Abure"
 msgstr ""
 
 #. Name for abv
-#, fuzzy
 msgid "Baharna Arabic"
-msgstr "Арабский"
+msgstr "диалект бахарна арабского"
 
 #. Inverted name for abv
-#, fuzzy
 msgid "Arabic, Baharna"
-msgstr "Арауканский"
+msgstr "арабский, диалект бахарна"
 
 #. Name for abw
 #, fuzzy
@@ -336,11 +332,11 @@ msgstr ""
 
 #. Name for acm
 msgid "Mesopotamian Arabic"
-msgstr ""
+msgstr "месопотамский диалект арабского"
 
 #. Inverted name for acm
 msgid "Arabic, Mesopotamian"
-msgstr ""
+msgstr "арабский, месопотамский диалект"
 
 #. Name for acn
 #, fuzzy
@@ -357,11 +353,11 @@ msgstr ""
 
 #. Name for acq
 msgid "Ta'izzi-Adeni Arabic"
-msgstr ""
+msgstr "таизско-аденский диалект арабского"
 
 #. Inverted name for acq
 msgid "Arabic, Ta'izzi-Adeni"
-msgstr ""
+msgstr "арабский, таизско-аденский диалект"
 
 #. Name for acr
 #, fuzzy
@@ -385,33 +381,28 @@ msgid "Achumawi"
 msgstr ""
 
 #. Name for acw
-#, fuzzy
 msgid "Hijazi Arabic"
-msgstr "Арабский"
+msgstr "хиджазский диалект арабского"
 
 #. Inverted name for acw
-#, fuzzy
 msgid "Arabic, Hijazi"
-msgstr "Арабский"
+msgstr "арабский, хиджазский диалект"
 
 #. Name for acx
-#, fuzzy
 msgid "Omani Arabic"
-msgstr "Арабский"
+msgstr "оманский диалект арабского"
 
 #. Inverted name for acx
-#, fuzzy
 msgid "Arabic, Omani"
-msgstr "Арамейский"
+msgstr "арабский, оманский диалект"
 
 #. Name for acy
-#, fuzzy
 msgid "Cypriot Arabic"
-msgstr "Арабский"
+msgstr "кипрско-арабский"
 
 #. Inverted name for acy
 msgid "Arabic, Cypriot"
-msgstr ""
+msgstr "кипрско-арабский"
 
 #. Name for acz
 msgid "Acheron"
@@ -435,13 +426,12 @@ msgid "Adele"
 msgstr ""
 
 #. Name for adf
-#, fuzzy
 msgid "Dhofari Arabic"
-msgstr "Арабский"
+msgstr "дофарский диалект арабского"
 
 #. Inverted name for adf
 msgid "Arabic, Dhofari"
-msgstr ""
+msgstr "арабский, дофарский диалект"
 
 #. Name for adg
 msgid "Andegerebinha"
@@ -514,9 +504,8 @@ msgid "Tibetan, Amdo"
 msgstr "Тибетский"
 
 #. Name for ady
-#, fuzzy
 msgid "Adyghe"
-msgstr "Адангме"
+msgstr "адыгейский"
 
 #. Name for adz
 msgid "Adzera"
@@ -529,27 +518,23 @@ msgstr "Армянский"
 
 #. Name for aeb
 msgid "Tunisian Arabic"
-msgstr ""
+msgstr "тунисский диалект арабского"
 
 #. Inverted name for aeb
-#, fuzzy
 msgid "Arabic, Tunisian"
-msgstr "Арауканский"
+msgstr "арабский, тунисский диалект"
 
 #. Name for aec
-#, fuzzy
 msgid "Saidi Arabic"
-msgstr "Арабский"
+msgstr "саидский диалект арабского"
 
 #. Inverted name for aec
-#, fuzzy
 msgid "Arabic, Saidi"
-msgstr "Арамейский"
+msgstr "арабский, саидский диалект"
 
 #. Name for aed
-#, fuzzy
 msgid "Argentine Sign Language"
-msgstr "Языки жестов"
+msgstr "аргентинский жестовый язык"
 
 #. Name for aee
 #, fuzzy
@@ -574,9 +559,8 @@ msgid "Arem"
 msgstr ""
 
 #. Name for aen
-#, fuzzy
 msgid "Armenian Sign Language"
-msgstr "Языки жестов"
+msgstr "армянский жестовый язык"
 
 #. Name for aeq
 msgid "Aer"
@@ -584,11 +568,11 @@ msgstr ""
 
 #. Name for aer
 msgid "Eastern Arrernte"
-msgstr ""
+msgstr "восточный аранта"
 
 #. Inverted name for aer
 msgid "Arrernte, Eastern"
-msgstr ""
+msgstr "аранта, восточный"
 
 #. Name for aes
 msgid "Alsea"
@@ -615,14 +599,12 @@ msgid "Aeka"
 msgstr "Акан"
 
 #. Name for afb
-#, fuzzy
 msgid "Gulf Arabic"
-msgstr "Арабский"
+msgstr "диалект Персидского залива арабского"
 
 #. Inverted name for afb
-#, fuzzy
 msgid "Arabic, Gulf"
-msgstr "Арабский"
+msgstr "арабский, диалект Персидского залива"
 
 #. Name for afd
 #, fuzzy
@@ -634,9 +616,8 @@ msgid "Putukwam"
 msgstr ""
 
 #. Name for afg
-#, fuzzy
 msgid "Afghan Sign Language"
-msgstr "Языки жестов"
+msgstr "афганский жестовый язык"
 
 #. Name for afh
 msgid "Afrihili"
@@ -906,7 +887,7 @@ msgstr "Моей"
 
 #. Name for aib
 msgid "Ainu (China)"
-msgstr ""
+msgstr "айнский (Китай)"
 
 #. Name for aic
 #, fuzzy
@@ -941,11 +922,11 @@ msgstr ""
 
 #. Name for aii
 msgid "Assyrian Neo-Aramaic"
-msgstr ""
+msgstr "ассирийский новоарамейский"
 
 #. Inverted name for aii
 msgid "Neo-Aramaic, Assyrian"
-msgstr ""
+msgstr "новоарамейский, ассирийский"
 
 #. Name for aij
 #, fuzzy
@@ -967,7 +948,7 @@ msgstr "Бикольский"
 
 #. Name for ain
 msgid "Ainu (Japan)"
-msgstr ""
+msgstr "айнский (Япония)"
 
 #. Name for aio
 msgid "Aiton"
@@ -1025,14 +1006,12 @@ msgid "Andajin"
 msgstr "Рунди"
 
 #. Name for ajp
-#, fuzzy
 msgid "South Levantine Arabic"
-msgstr "Сото Южный"
+msgstr "палестинско-иорданский диалект арабского"
 
 #. Inverted name for ajp
-#, fuzzy
 msgid "Arabic, South Levantine"
-msgstr "Сото Южный"
+msgstr "арабский, палестинско-иорданский диалект"
 
 #. Name for ajs
 #, fuzzy
@@ -1040,13 +1019,12 @@ msgid "Algerian Jewish Sign Language"
 msgstr "Языки жестов"
 
 #. Name for aju
-#, fuzzy
 msgid "Judeo-Moroccan Arabic"
-msgstr "Еврейско-арабский"
+msgstr "еврейско-марокканский"
 
 #. Inverted name for aju
 msgid "Arabic, Judeo-Moroccan"
-msgstr ""
+msgstr "еврейско-марокканский"
 
 #. Name for ajw
 #, fuzzy
@@ -1228,14 +1206,12 @@ msgid "Amblong"
 msgstr "Хмонг"
 
 #. Name for aln
-#, fuzzy
 msgid "Gheg Albanian"
-msgstr "Албанский"
+msgstr "гегский диалект албанского"
 
 #. Inverted name for aln
-#, fuzzy
 msgid "Albanian, Gheg"
-msgstr "Албанский"
+msgstr "албанский, гегский диалект"
 
 #. Name for alo
 msgid "Larike-Wakasihu"
@@ -1255,24 +1231,20 @@ msgid "Alutor"
 msgstr ""
 
 #. Name for als
-#, fuzzy
 msgid "Tosk Albanian"
-msgstr "Албанский"
+msgstr "тоскский диалект албанского"
 
 #. Inverted name for als
-#, fuzzy
 msgid "Albanian, Tosk"
-msgstr "Албанский"
+msgstr "албанский, тоскский диалект"
 
 #. Name for alt
-#, fuzzy
 msgid "Southern Altai"
-msgstr "Южно-саамский"
+msgstr "южно-алтайский"
 
 #. Inverted name for alt
-#, fuzzy
 msgid "Altai, Southern"
-msgstr "Сото Южный"
+msgstr "южно-алтайский"
 
 #. Name for alu
 msgid "'Are'are"
@@ -1399,12 +1371,11 @@ msgstr ""
 
 #. Name for amw
 msgid "Western Neo-Aramaic"
-msgstr ""
+msgstr "западный новоарамейский"
 
 #. Inverted name for amw
-#, fuzzy
 msgid "Neo-Aramaic, Western"
-msgstr "Фрисский"
+msgstr "новоарамейский, западный"
 
 #. Name for amx
 msgid "Anmatyerre"
@@ -1447,14 +1418,12 @@ msgid "Animere"
 msgstr ""
 
 #. Name for ang
-#, fuzzy
 msgid "Old English (ca. 450-1100)"
-msgstr "Староанглийский (ca.450-1100)"
+msgstr "староанглийский (ок.450-1100)"
 
 #. Inverted name for ang
-#, fuzzy
 msgid "English, Old (ca. 450-1100)"
-msgstr "Староанглийский (ca.450-1100)"
+msgstr "староанглийский (ок.450-1100)"
 
 #. Name for anh
 #, fuzzy
@@ -1486,7 +1455,7 @@ msgstr "Чжуань"
 
 #. Name for anm
 msgid "Anal"
-msgstr ""
+msgstr "намфау"
 
 #. Name for ann
 #, fuzzy
@@ -1642,24 +1611,20 @@ msgid "Sa'a"
 msgstr "Сасакский"
 
 #. Name for apc
-#, fuzzy
 msgid "North Levantine Arabic"
-msgstr "Алтайские (другие)"
+msgstr "сиро-ливанский диалект арабского"
 
 #. Inverted name for apc
-#, fuzzy
 msgid "Arabic, North Levantine"
-msgstr "Алтайские (другие)"
+msgstr "арабский, сиро-ливанский диалект"
 
 #. Name for apd
-#, fuzzy
 msgid "Sudanese Arabic"
-msgstr "Еврейско-арабский"
+msgstr "суданский диалект арабского"
 
 #. Inverted name for apd
-#, fuzzy
 msgid "Arabic, Sudanese"
-msgstr "Арагонский"
+msgstr "арабский, суданский диалект"
 
 #. Name for ape
 msgid "Bukiyip"
@@ -1784,9 +1749,8 @@ msgid "Safeyoka"
 msgstr ""
 
 #. Name for aqc
-#, fuzzy
 msgid "Archi"
-msgstr "Ачехский"
+msgstr "арчинский"
 
 #. Name for aqd
 msgid "Ampari Dogon"
@@ -1844,19 +1808,19 @@ msgstr "арабский"
 
 #. Name for arb
 msgid "Standard Arabic"
-msgstr ""
+msgstr "стандартный арабский"
 
 #. Inverted name for arb
 msgid "Arabic, Standard"
-msgstr ""
+msgstr "арабский, стандартный"
 
 #. Name for arc
 msgid "Official Aramaic (700-300 BCE)"
-msgstr ""
+msgstr "имперский арамейский (700-300 до н.э.)"
 
 #. Inverted name for arc
 msgid "Aramaic, Official (700-300 BCE)"
-msgstr ""
+msgstr "арамейский, имперский (700-300 до н.э.)"
 
 #. Name for ard
 #, fuzzy
@@ -1865,11 +1829,11 @@ msgstr "Арауканский"
 
 #. Name for are
 msgid "Western Arrarnta"
-msgstr ""
+msgstr "западный аранта"
 
 #. Inverted name for are
 msgid "Arrarnta, Western"
-msgstr ""
+msgstr "аранта, западный"
 
 #. Name for arg
 msgid "Aragonese"
@@ -1900,9 +1864,8 @@ msgid "Arabela"
 msgstr "Арабский"
 
 #. Name for arn
-#, fuzzy
 msgid "Mapudungun"
-msgstr "Мэнкский"
+msgstr "мапуче"
 
 #. Name for aro
 #, fuzzy
@@ -1914,27 +1877,24 @@ msgid "Arapaho"
 msgstr "арапахо"
 
 #. Name for arq
-#, fuzzy
 msgid "Algerian Arabic"
-msgstr "Арабский"
+msgstr "алжирский диалект арабского"
 
 #. Inverted name for arq
 msgid "Arabic, Algerian"
-msgstr ""
+msgstr "арабский, алжирский диалект"
 
 #. Name for arr
 msgid "Karo (Brazil)"
 msgstr ""
 
 #. Name for ars
-#, fuzzy
 msgid "Najdi Arabic"
-msgstr "Арабский"
+msgstr "недждийский диалект арабского"
 
 #. Inverted name for ars
-#, fuzzy
 msgid "Arabic, Najdi"
-msgstr "Арамейский"
+msgstr "арабский, недждийский диалект"
 
 #. Name for aru
 msgid "Aruá (Amazonas State)"
@@ -1953,22 +1913,20 @@ msgid "Aruá (Rodonia State)"
 msgstr ""
 
 #. Name for ary
-#, fuzzy
 msgid "Moroccan Arabic"
-msgstr "Арабский"
+msgstr "марокканский диалект арабского"
 
 #. Inverted name for ary
 msgid "Arabic, Moroccan"
-msgstr ""
+msgstr "арабский, марокканский диалект"
 
 #. Name for arz
-#, fuzzy
 msgid "Egyptian Arabic"
-msgstr "Древнеегипетский"
+msgstr "египетский диалект арабского"
 
 #. Inverted name for arz
 msgid "Arabic, Egyptian"
-msgstr ""
+msgstr "арабский, египетский диалект"
 
 #. Name for asa
 #, fuzzy
@@ -1988,13 +1946,12 @@ msgid "Asmat, Casuarina Coast"
 msgstr ""
 
 #. Name for ase
-#, fuzzy
 msgid "American Sign Language"
-msgstr "Языки жестов"
+msgstr "амслен"
 
 #. Name for asf
 msgid "Auslan"
-msgstr ""
+msgstr "австралийский жестовый язык"
 
 #. Name for asg
 msgid "Cishingini"
@@ -2060,9 +2017,8 @@ msgid "Ipulo"
 msgstr "Илоко"
 
 #. Name for ast
-#, fuzzy
 msgid "Asturian"
-msgstr "Авестийский"
+msgstr "астурийский"
 
 #. Name for asu
 msgid "Tocantins Asurini"
@@ -2196,14 +2152,12 @@ msgid "Reel"
 msgstr ""
 
 #. Name for atv
-#, fuzzy
 msgid "Northern Altai"
-msgstr "Северо-саамский"
+msgstr "cеверноалтайский"
 
 #. Inverted name for atv
-#, fuzzy
 msgid "Altai, Northern"
-msgstr "Алтайские (другие)"
+msgstr "cеверноалтайский"
 
 #. Name for atw
 msgid "Atsugewi"
@@ -2324,14 +2278,12 @@ msgid "Awiyaana"
 msgstr "Киньяруанда"
 
 #. Name for auz
-#, fuzzy
 msgid "Uzbeki Arabic"
-msgstr "Арабский"
+msgstr "узбекский диалект арабского"
 
 #. Inverted name for auz
-#, fuzzy
 msgid "Arabic, Uzbeki"
-msgstr "Арабский"
+msgstr "арабский, узбекский диалект"
 
 #. Name for ava
 msgid "Avaric"
@@ -2356,17 +2308,16 @@ msgid "Avikam"
 msgstr "Акан"
 
 #. Name for avk
-#, fuzzy
 msgid "Kotava"
-msgstr "Хауса"
+msgstr "котава"
 
 #. Name for avl
 msgid "Eastern Egyptian Bedawi Arabic"
-msgstr ""
+msgstr "бедуинский диалект восточного Египта и Леванта арабского"
 
 #. Inverted name for avl
 msgid "Arabic, Eastern Egyptian Bedawi"
-msgstr ""
+msgstr "арабский, бедуинский диалект восточного Египта и Леванта"
 
 #. Name for avm
 msgid "Angkamuthi"
@@ -2526,14 +2477,12 @@ msgid "Aranda, Lower Southern"
 msgstr "Сото Южный"
 
 #. Name for axm
-#, fuzzy
 msgid "Middle Armenian"
-msgstr "Армянский"
+msgstr "среднеармянский"
 
 #. Inverted name for axm
-#, fuzzy
 msgid "Armenian, Middle"
-msgstr "Армянский"
+msgstr "среднеармянский"
 
 #. Name for axx
 msgid "Xârâgurè"
@@ -2553,14 +2502,12 @@ msgid "Gbe, Ayizo"
 msgstr ""
 
 #. Name for ayc
-#, fuzzy
 msgid "Southern Aymara"
-msgstr "Сото Южный"
+msgstr "южный диалект аймара"
 
 #. Inverted name for ayc
-#, fuzzy
 msgid "Aymara, Southern"
-msgstr "Сото Южный"
+msgstr "аймара, южный диалект"
 
 #. Name for ayd
 msgid "Ayabadhu"
@@ -2577,14 +2524,12 @@ msgid "Ginyanga"
 msgstr "Минангкабау"
 
 #. Name for ayh
-#, fuzzy
 msgid "Hadrami Arabic"
-msgstr "Хайда"
+msgstr "хадрамаутский диалект арабского"
 
 #. Inverted name for ayh
-#, fuzzy
 msgid "Arabic, Hadrami"
-msgstr "Хайда"
+msgstr "арабский, хадрамаутский диалект"
 
 #. Name for ayi
 #, fuzzy
@@ -2596,28 +2541,24 @@ msgid "Akuku"
 msgstr ""
 
 #. Name for ayl
-#, fuzzy
 msgid "Libyan Arabic"
-msgstr "Арабский"
+msgstr "ливийский диалект арабского"
 
 #. Inverted name for ayl
-#, fuzzy
 msgid "Arabic, Libyan"
-msgstr "Апачские языки"
+msgstr "арабский, ливийский диалект"
 
 #. Name for aym
 msgid "Aymara"
 msgstr "аймара"
 
 #. Name for ayn
-#, fuzzy
 msgid "Sanaani Arabic"
-msgstr "Арабский"
+msgstr "севернойеменский диалект арабского"
 
 #. Inverted name for ayn
-#, fuzzy
 msgid "Arabic, Sanaani"
-msgstr "Арауканский"
+msgstr "арабский, севернойеменский диалект"
 
 #. Name for ayo
 #, fuzzy
@@ -2626,24 +2567,23 @@ msgstr "Ньоро"
 
 #. Name for ayp
 msgid "North Mesopotamian Arabic"
-msgstr ""
+msgstr "мосульский диалект арабского"
 
 #. Inverted name for ayp
 msgid "Arabic, North Mesopotamian"
-msgstr ""
+msgstr "арабский, мосульский диалект"
 
 #. Name for ayq
 msgid "Ayi (Papua New Guinea)"
 msgstr ""
 
 #. Name for ayr
-#, fuzzy
 msgid "Central Aymara"
-msgstr "Аймара"
+msgstr "центральный диалект аймара"
 
 #. Inverted name for ayr
 msgid "Aymara, Central"
-msgstr ""
+msgstr "аймара, центральный диалект"
 
 #. Name for ays
 msgid "Sorsogon Ayta"
@@ -2676,14 +2616,12 @@ msgid "Azha"
 msgstr "Акан"
 
 #. Name for azb
-#, fuzzy
 msgid "South Azerbaijani"
-msgstr "Азербайджанский"
+msgstr "южный диалект азербайджанского"
 
 #. Inverted name for azb
-#, fuzzy
 msgid "Azerbaijani, South"
-msgstr "Азербайджанский"
+msgstr "азербайджанский, южный диалект"
 
 #. Name for azd
 msgid "Eastern Durango Nahuatl"
@@ -2707,14 +2645,12 @@ msgid "Amuzgo, San Pedro Amuzgos"
 msgstr ""
 
 #. Name for azj
-#, fuzzy
 msgid "North Azerbaijani"
-msgstr "Азербайджанский"
+msgstr "северный диалект азербайджанского"
 
 #. Inverted name for azj
-#, fuzzy
 msgid "Azerbaijani, North"
-msgstr "Азербайджанский"
+msgstr "азербайджанский, северный диалект"
 
 #. Name for azm
 msgid "Ipalapa Amuzgo"
@@ -2820,9 +2756,8 @@ msgid "Bantawa"
 msgstr "Банда"
 
 #. Name for bar
-#, fuzzy
 msgid "Bavarian"
-msgstr "Болгарский"
+msgstr "баварский"
 
 #. Name for bas
 msgid "Basa (Cameroon)"
@@ -3415,9 +3350,8 @@ msgid "Blafe"
 msgstr ""
 
 #. Name for bfi
-#, fuzzy
 msgid "British Sign Language"
-msgstr "Языки жестов"
+msgstr "британский жестовый язык"
 
 #. Name for bfj
 msgid "Bafanji"
@@ -3705,11 +3639,11 @@ msgstr "Бихари"
 
 #. Name for bhn
 msgid "Bohtan Neo-Aramaic"
-msgstr ""
+msgstr "бохтанский новоарамейский"
 
 #. Inverted name for bhn
 msgid "Neo-Aramaic, Bohtan"
-msgstr ""
+msgstr "новоарамейский, бохтанский"
 
 #. Name for bho
 msgid "Bhojpuri"
@@ -3907,11 +3841,11 @@ msgstr ""
 
 #. Name for bjf
 msgid "Barzani Jewish Neo-Aramaic"
-msgstr ""
+msgstr "барзанский еврейский новоарамейский"
 
 #. Inverted name for bjf
 msgid "Neo-Aramaic, Barzani Jewish"
-msgstr ""
+msgstr "новоарамейский, барзанский еврейский"
 
 #. Name for bjg
 msgid "Bidyogo"
@@ -4641,9 +4575,8 @@ msgid "Bonggo"
 msgstr "Конго"
 
 #. Name for bph
-#, fuzzy
 msgid "Botlikh"
-msgstr "Польский"
+msgstr "ботлихский"
 
 #. Name for bpi
 #, fuzzy
@@ -5671,14 +5604,12 @@ msgid "Jalkunan"
 msgstr "Палау"
 
 #. Name for bxm
-#, fuzzy
 msgid "Mongolia Buriat"
-msgstr "Монгольский"
+msgstr "бурятский (Монголия)"
 
 #. Inverted name for bxm
-#, fuzzy
 msgid "Buriat, Mongolia"
-msgstr "Монгольский"
+msgstr "бурятский (Монголия)"
 
 #. Name for bxn
 #, fuzzy
@@ -5700,14 +5631,12 @@ msgid "Beele"
 msgstr ""
 
 #. Name for bxr
-#, fuzzy
 msgid "Russia Buriat"
-msgstr "Бурятский"
+msgstr "бурятский (Россия)"
 
 #. Inverted name for bxr
-#, fuzzy
 msgid "Buriat, Russia"
-msgstr "Бурятский"
+msgstr "бурятский (Россия)"
 
 #. Name for bxs
 #, fuzzy
@@ -5715,14 +5644,12 @@ msgid "Busam"
 msgstr "Бислама"
 
 #. Name for bxu
-#, fuzzy
 msgid "China Buriat"
-msgstr "Бурятский"
+msgstr "бурятский (Китай)"
 
 #. Inverted name for bxu
-#, fuzzy
 msgid "Buriat, China"
-msgstr "Бурятский"
+msgstr "бурятский (Китай)"
 
 #. Name for bxv
 msgid "Berakou"
@@ -6781,12 +6708,11 @@ msgstr ""
 
 #. Name for cld
 msgid "Chaldean Neo-Aramaic"
-msgstr ""
+msgstr "халдейский новоарамейский"
 
 #. Inverted name for cld
-#, fuzzy
 msgid "Neo-Aramaic, Chaldean"
-msgstr "Арамейский"
+msgstr "новоарамейский, халдейский"
 
 #. Name for cle
 msgid "Lealao Chinantec"
@@ -14805,11 +14731,11 @@ msgstr "Зулусский"
 
 #. Name for jpa
 msgid "Jewish Palestinian Aramaic"
-msgstr ""
+msgstr "еврейско-палестинский арамейский"
 
 #. Inverted name for jpa
 msgid "Aramaic, Jewish Palestinian"
-msgstr ""
+msgstr "арамейский, еврейско-палестинский"
 
 #. Name for jpn
 msgid "Japanese"
@@ -14953,13 +14879,12 @@ msgid "Jiarong"
 msgstr ""
 
 #. Name for jye
-#, fuzzy
 msgid "Judeo-Yemeni Arabic"
-msgstr "Еврейско-арабский"
+msgstr "еврейско-йеменский"
 
 #. Inverted name for jye
 msgid "Arabic, Judeo-Yemeni"
-msgstr ""
+msgstr "еврейско-йеменский"
 
 #. Name for jyy
 #, fuzzy
@@ -16798,7 +16723,7 @@ msgstr "Конго"
 
 #. Name for koi
 msgid "Komi-Permyak"
-msgstr ""
+msgstr "коми-пермяцкий"
 
 #. Name for kok
 #, fuzzy
@@ -16963,7 +16888,7 @@ msgstr "Камба"
 
 #. Name for kpv
 msgid "Komi-Zyrian"
-msgstr ""
+msgstr "коми-зырянский"
 
 #. Name for kpw
 #, fuzzy
@@ -23009,9 +22934,8 @@ msgid "Mvuba"
 msgstr ""
 
 #. Name for mxi
-#, fuzzy
 msgid "Mozarabic"
-msgstr "Арабский"
+msgstr "мосарабский"
 
 #. Name for mxj
 msgid "Miju-Mishmi"
@@ -26060,14 +25984,12 @@ msgid "Oroch"
 msgstr "Оромо"
 
 #. Name for oar
-#, fuzzy
 msgid "Old Aramaic (up to 700 BCE)"
-msgstr "Староирландский (по 900)"
+msgstr "староарамейский (по 700 до н.э.)"
 
 #. Inverted name for oar
-#, fuzzy
 msgid "Aramaic, Old (up to 700 BCE)"
-msgstr "Староирландский (по 900)"
+msgstr "староарамейский (по 700 до н.э.)"
 
 #. Name for oav
 msgid "Old Avar"
@@ -27600,11 +27522,11 @@ msgstr "Польский"
 
 #. Name for pga
 msgid "Sudanese Creole Arabic"
-msgstr ""
+msgstr "южносуданский арабский пиджин"
 
 #. Inverted name for pga
 msgid "Creole Arabic, Sudanese"
-msgstr ""
+msgstr "арабский пиджин, южносуданский"
 
 #. Name for pgd
 msgid "Gāndhārī"
@@ -30293,13 +30215,12 @@ msgid "Sake"
 msgstr "Сасакский"
 
 #. Name for sam
-#, fuzzy
 msgid "Samaritan Aramaic"
-msgstr "Шумерский"
+msgstr "самаритянский арамейский"
 
 #. Inverted name for sam
 msgid "Aramaic, Samaritan"
-msgstr ""
+msgstr "арамейский, самаритянский"
 
 #. Name for san
 msgid "Sanskrit"
@@ -31076,14 +30997,12 @@ msgid "Shasta"
 msgstr "Сасакский"
 
 #. Name for shu
-#, fuzzy
 msgid "Chadian Arabic"
-msgstr "Арабский"
+msgstr "чадский диалект арабского"
 
 #. Inverted name for shu
-#, fuzzy
 msgid "Arabic, Chadian"
-msgstr "Арауканский"
+msgstr "арабский, чадский диалект"
 
 #. Name for shv
 #, fuzzy
@@ -32095,14 +32014,12 @@ msgid "Sou"
 msgstr ""
 
 #. Name for sqr
-#, fuzzy
 msgid "Siculo Arabic"
-msgstr "Еврейско-арабский"
+msgstr "сицилийско-арабский"
 
 #. Inverted name for sqr
-#, fuzzy
 msgid "Arabic, Siculo"
-msgstr "Арабский"
+msgstr "сицилийско-арабский"
 
 #. Name for sqs
 #, fuzzy
@@ -32289,14 +32206,12 @@ msgid "Seimat"
 msgstr "Сербский"
 
 #. Name for ssh
-#, fuzzy
 msgid "Shihhi Arabic"
-msgstr "Арабский"
+msgstr "шихухский диалект арабского"
 
 #. Inverted name for ssh
-#, fuzzy
 msgid "Arabic, Shihhi"
-msgstr "Арабский"
+msgstr "арабский, шихухский диалект"
 
 #. Name for ssi
 #, fuzzy
@@ -34373,11 +34288,11 @@ msgstr "Туркменский"
 
 #. Name for tmr
 msgid "Jewish Babylonian Aramaic (ca. 200-1200 CE)"
-msgstr ""
+msgstr "еврейско-вавилонский арамейский (ок. 200-1200 н.э.)"
 
 #. Inverted name for tmr
 msgid "Aramaic, Jewish Babylonian (ca. 200-1200 CE)"
-msgstr ""
+msgstr "арамейский, еврейско-вавилонский (ок. 200-1200 н.э.)"
 
 #. Name for tms
 #, fuzzy
@@ -34569,7 +34484,7 @@ msgstr ""
 
 #. Name for tok
 msgid "Toki Pona"
-msgstr ""
+msgstr "Токипона"
 
 #. Name for tol
 #, fuzzy
@@ -37949,11 +37864,11 @@ msgstr ""
 
 #. Name for xaa
 msgid "Andalusian Arabic"
-msgstr ""
+msgstr "андалузский диалект арабского"
 
 #. Inverted name for xaa
 msgid "Arabic, Andalusian"
-msgstr ""
+msgstr "арабский, андалузский диалект"
 
 #. Name for xab
 #, fuzzy
@@ -38846,7 +38761,7 @@ msgstr ""
 
 #. Name for xno
 msgid "Anglo-Norman"
-msgstr ""
+msgstr "англо-нормандский"
 
 #. Name for xnq
 msgid "Ngoni (Mozambique)"
@@ -40000,13 +39915,12 @@ msgid "Buyang, Baha"
 msgstr "Фанг"
 
 #. Name for yhd
-#, fuzzy
 msgid "Judeo-Iraqi Arabic"
-msgstr "Еврейско-арабский"
+msgstr "еврейско-иракский диалект арабского"
 
 #. Inverted name for yhd
 msgid "Arabic, Judeo-Iraqi"
-msgstr ""
+msgstr "арабский, еврейско-иракский диалект"
 
 #. Name for yhl
 msgid "Hlepho Phowa"
@@ -40686,13 +40600,12 @@ msgid "Yuchi"
 msgstr "Балийский"
 
 #. Name for yud
-#, fuzzy
 msgid "Judeo-Tripolitanian Arabic"
-msgstr "Еврейско-арабский"
+msgstr "еврейско-триполитанский диалект арабского"
 
 #. Inverted name for yud
 msgid "Arabic, Judeo-Tripolitanian"
-msgstr ""
+msgstr "арабский, еврейско-триполитанский диалект"
 
 #. Name for yue
 #, fuzzy
